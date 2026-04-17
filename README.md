@@ -18,7 +18,7 @@ Manual Testing Project
 ![UI](screenshots/ui_bug.png)
 
 ### Mobile View
-![Mobile](screenshots/mobile_view.png)
+![Mobile](screenshots/mobile_view.jpeg)
 
 ## 📂 Project Files
 
