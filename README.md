@@ -3,7 +3,7 @@ Manual Testing Project
 ## Screenshots
 
 ### Jira Board
-![Jira Board](Screenshots/Jira_Board.png)
+![Jira Board](Screenshots/Jira_board.png)
 
 ### Create Bug
 ![Create Bug](Screenshots/Create_Bug.png)
