@@ -3,16 +3,16 @@ Manual Testing Project
 ## Screenshots
 
 ### Jira Board
-![Jira Board](Screenshots/Jira_board.png)
+![Jira Board](Screenshots/Jira_Board.png)
 
 ### Create Bug
-![Create Bug](Screenshots/Create_Bug.png)
+![Create Bug](Screenshots/Create_bug.png)
 
 ### Bug Details
-![Bug Details](Screenshots/Bug_Details.png)
+![Bug Details](Screenshots/Bug_details.png)
 
 ### Status Change
-![Status Change](Screenshots/Status_Change.png)
+![Status Change](Screenshots/Status_change.png)
 
 ### UI Issue
 ![UI](screenshots/ui_bug.png)
